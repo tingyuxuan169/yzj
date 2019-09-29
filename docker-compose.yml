@@ -1,0 +1,8 @@
+version: '2'
+services:
+  yqrj-base:
+    image: yqrj/yqrj-base
+    ports:
+    - "8080:8080"
+    environment:
+    - spring.profiles.active=dev

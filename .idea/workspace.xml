@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ccbeb79-029a-4f93-be49-5e8ccde4daf1" name="Default Changelist" comment="优化商品信息，专区分类">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/eb924f41-9b2a-4742-9646-f1fc9bf18c72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_annotation_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_base_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_web_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_qcloudsms_qcloudsms_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_tobato_fastdfs_client_1_26_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_swagger_bootstrap_ui_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qcloud_cos_api_5_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/annotation/DataFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/annotation/Ehcache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/annotation/LogOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/DataFilterAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/EhcacheAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/LogOperationAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/TimeOutAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/config/KaptchaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/exception/YqrjExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/handler/FieldMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/interceptor/DataFilterInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/interceptor/DataScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/DatesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/EhcacheUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/RSATool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/SignUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/YqrjUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/validator/group/AliyunGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/validator/group/FastDFSGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/validator/group/LocalGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/validator/group/QcloudGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/validator/group/QiniuGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/controller/SysLogApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/controller/SysLogErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/controller/SysLogLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/controller/SysLogOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dao/SysLogApiDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dao/SysLogErrorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dao/SysLogLoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dao/SysLogOperationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dto/SysLogApiDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dto/SysLogErrorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dto/SysLogLoginDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dto/SysLogOperationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/entity/SysLogApiEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/entity/SysLogErrorEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/entity/SysLogLoginEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/entity/SysLogOperationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/enums/LoginOperationEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/enums/LoginStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/enums/OperationStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/excel/SysLogApiExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/excel/SysLogErrorExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/excel/SysLogLoginExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/excel/SysLogOperationExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/SysLogApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/SysLogErrorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/SysLogLoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/SysLogOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/impl/SysLogApiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/impl/SysLogErrorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/impl/SysLogLoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/service/impl/SysLogOperationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/AbstractCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/AliyunCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/CloudStorageConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/FastDFSCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/FastDFSImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/LocalCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/OSSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/QcloudCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/cloud/QiniuCloudStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/controller/SysOssController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/dao/SysOssDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/entity/SysOssEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/service/SysOssService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/oss/service/impl/SysOssServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/config/FilterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/config/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/dao/SysUserTokenDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/dto/LoginDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/dto/RegisterDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/entity/SysUserTokenEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/Oauth2Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/Oauth2Realm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/Oauth2Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/TokenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/BCrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/BCryptPasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/PasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/CaptchaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/ShiroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/SysUserTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/impl/CaptchaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/impl/ShiroServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/service/impl/SysUserTokenServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/user/SecurityUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/user/UserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysDeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysDictController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysParamsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysRoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SysUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/controller/SystemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysDeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysDictDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysLanguageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysMenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysParamsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysRoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysRoleDataScopeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysRoleMenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysRoleUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dao/SysUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/PasswordDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysDeptDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysDictDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysMenuDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysParamsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysRoleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SysUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/dto/SystemDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysDeptEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysDictEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysLanguageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysMenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysParamsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysRoleDataScopeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysRoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysRoleMenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysRoleUserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/entity/SysUserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/enums/MenuTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/enums/SuperAdminEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/enums/UserStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/excel/SysParamsExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/excel/SysUserExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/redis/SysParamsRedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysDeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysDictService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysLanguageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysParamsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysRockFintechService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysRoleDataScopeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysRoleMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysRoleUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/SysUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysDeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysDictServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysLanguageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysParamsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysRockFintechServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysRoleDataScopeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysRoleMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysRoleUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/sys/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/logback-spring.xml_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/log/SysLogApiDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/log/SysLogErrorDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/log/SysLogLoginDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/log/SysLogOperationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/oss/SysOssDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysDeptDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysDictDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysLanguageDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysMenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysParamsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysRoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysRoleDataScopeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysRoleMenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysRoleUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/mapper/sys/SysUserTokenDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/src/main/resources/stencilset.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/annotation/DataFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/annotation/Ehcache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/annotation/LogOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/aspect/DataFilterAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/aspect/EhcacheAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/aspect/LogOperationAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/aspect/TimeOutAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/config/KaptchaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/exception/YqrjExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/handler/FieldMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/interceptor/DataFilterInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/interceptor/DataScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/DatesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/EhcacheUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/ExcelUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/HttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/HttpClient$TrustAnyHostnameVerifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/HttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/RSATool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/SignUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/utils/YqrjUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/validator/group/AliyunGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/validator/group/FastDFSGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/validator/group/LocalGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/validator/group/QcloudGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/common/validator/group/QiniuGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/common/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/controller/SysLogApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/controller/SysLogErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/controller/SysLogLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/controller/SysLogOperationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dao/SysLogApiDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dao/SysLogErrorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dao/SysLogLoginDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dao/SysLogOperationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dto/SysLogApiDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dto/SysLogErrorDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dto/SysLogLoginDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/dto/SysLogOperationDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/entity/SysLogApiEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/entity/SysLogErrorEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/entity/SysLogLoginEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/entity/SysLogOperationEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/enums/LoginOperationEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/enums/LoginStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/enums/OperationStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/excel/SysLogApiExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/excel/SysLogErrorExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/excel/SysLogLoginExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/excel/SysLogOperationExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/SysLogApiService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/SysLogErrorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/SysLogLoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/SysLogOperationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/impl/SysLogApiServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/impl/SysLogErrorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/impl/SysLogLoginServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/log/service/impl/SysLogOperationServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/AbstractCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/AliyunCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/CloudStorageConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/FastDFSCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/FastDFSImport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/LocalCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/OSSFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/QcloudCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/cloud/QiniuCloudStorageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/controller/SysOssController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/dao/SysOssDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/entity/SysOssEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/service/SysOssService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/oss/service/impl/SysOssServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/config/FilterConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/config/ShiroConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/dao/SysUserTokenDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/dto/LoginDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/dto/RegisterDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/entity/SysUserTokenEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/oauth2/Oauth2Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/oauth2/Oauth2Realm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/oauth2/Oauth2Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/oauth2/TokenGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/password/BCrypt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/password/BCryptPasswordEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/password/PasswordEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/password/PasswordUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/CaptchaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/ShiroService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/SysUserTokenService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/impl/CaptchaServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/impl/ShiroServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/service/impl/SysUserTokenServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/user/SecurityUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/security/user/UserDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysDeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysDictController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysMenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysParamsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SysUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/controller/SystemController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysDeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysDictDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysLanguageDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysMenuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysParamsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysRoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysRoleDataScopeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysRoleMenuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysRoleUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dao/SysUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/PasswordDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysDeptDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysDictDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysMenuDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysParamsDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysRoleDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SysUserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/dto/SystemDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysDeptEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysDictEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysLanguageEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysMenuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysParamsEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysRoleDataScopeEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysRoleEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysRoleMenuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysRoleUserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/entity/SysUserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/enums/MenuTypeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/enums/SuperAdminEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/enums/UserStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/excel/SysParamsExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/excel/SysUserExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/redis/SysParamsRedis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysDeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysDictService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysLanguageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysParamsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysRockFintechService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysRoleDataScopeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysRoleMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysRoleUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/SysUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysDeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysDictServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysLanguageServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysParamsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysRockFintechServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysRoleDataScopeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysRoleMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysRoleUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/com/yqrj/modules/sys/service/impl/SysUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/logback-spring.xml_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/log/SysLogApiDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/log/SysLogErrorDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/log/SysLogLoginDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/log/SysLogOperationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/oss/SysOssDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysDeptDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysDictDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysLanguageDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysMenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysParamsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysRoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysRoleDataScopeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysRoleMenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysRoleUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/mapper/sys/SysUserTokenDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/classes/stencilset.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/target/yqrj-basic.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-basic/yqrj-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/aspect/RedisAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/convert/DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/exception/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/exception/ExceptionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/exception/YqrjException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/mybatisplus/EntityPluWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/page/PageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/redis/RedisKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/redis/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/redis/serializer/JsonRedisSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/impl/BaseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/impl/CrudServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/ConvertUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/HttpContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/IpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/MessageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/SpringContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/utils/TreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/AssertUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/ValidatorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/group/AddGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/group/DefaultGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/group/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/validator/group/UpdateGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/xss/SqlFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/xss/XssFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/xss/XssHttpServletRequestWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/xss/XssUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/messages_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/validation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/validation_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/validation_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/src/main/resources/i18n/validation_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/aspect/RedisAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/constant/Constant$CloudService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/constant/Constant$ScheduleStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/constant/Constant$SmsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/constant/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/convert/DateConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/entity/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/exception/ErrorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/exception/ExceptionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/exception/YqrjException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/mybatisplus/EntityPluWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/page/PageData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/redis/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/redis/RedisKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/redis/RedisUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/redis/serializer/JsonRedisSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/service/BaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/service/CrudService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/service/impl/BaseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/service/impl/CrudServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/ConvertUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/HttpContextUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/IpUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/MessageUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/SpringContextUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/utils/TreeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/AssertUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/ValidatorUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/group/AddGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/group/DefaultGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/group/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/validator/group/UpdateGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/xss/SqlFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/xss/XssFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/xss/XssHttpServletRequestWrapper$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/xss/XssHttpServletRequestWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/com/yqrj/common/xss/XssUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/messages_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/validation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/validation_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/validation_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/classes/i18n/validation_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/target/yqrj-common.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-common/yqrj-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/doc/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/libs/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/YzjApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreBrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsClassifyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsStandardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreBrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsClassifyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsStandardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dto/YzjStoreBrandDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsClassifyDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsStandardDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/entity/YzjStoreBrandEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsClassifyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsStandardEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/excel/YzjStoreBrandExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsClassifyExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsStandardExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreBrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsClassifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsStandardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreBrandServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsClassifyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsStandardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzSlideshowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzjNoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/YzjNoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/YzjSlideshowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dao/YzjNoticeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dao/YzjSlideshowDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dto/YzjNoticeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dto/YzjSlideshowDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/entity/YzjNoticeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/entity/YzjSlideshowEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/excel/YzjNoticeExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/excel/YzjSlideshowExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/YzjNoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/YzjSlideshowService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/YzjNoticeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/YzjSlideshowServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/store/YzjStoreBrandDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/store/YzjStoreGoodsClassifyDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/store/YzjStoreGoodsStandardDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/sys/YzjNoticeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/sys/YzjSlideshowDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/index-footer-pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/index-footer-pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/index-footer-pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/index-footer-pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/lunbo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges/lunbo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/META-INF/yqrj-yzj.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/YzjApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/controller/YzjStoreBrandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsClassifyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsStandardController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dao/YzjDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dao/YzjStoreBrandDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsClassifyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsStandardDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dto/YzjStoreBrandDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsClassifyDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsStandardDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/entity/YzjStoreBrandEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsClassifyEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsStandardEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/excel/YzjStoreBrandExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsClassifyExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsStandardExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/YzjStoreBrandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/YzjStoreGoodsClassifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/YzjStoreGoodsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/YzjStoreGoodsStandardService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/YzjStoreGoodsToService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/impl/YzjStoreBrandServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsClassifyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsStandardServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsToServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/controller/QTYzSlideshowController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/controller/QTYzjNoticeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/controller/YzjNoticeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/controller/YzjSlideshowController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/dao/YzjNoticeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/dao/YzjSlideshowDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/dto/YzjNoticeDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/dto/YzjSlideshowDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/entity/YzjNoticeEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/entity/YzjSlideshowEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/excel/YzjNoticeExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/excel/YzjSlideshowExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/service/YzjNoticeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/service/YzjSlideshowService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/service/impl/YzjNoticeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/com/yqrj/modules/yzj/sys/service/impl/YzjSlideshowServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/mapper/yzj/store/YzjStoreBrandDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/mapper/yzj/store/YzjStoreGoodsClassifyDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/mapper/yzj/store/YzjStoreGoodsStandardDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/mapper/yzj/sys/YzjNoticeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/mapper/yzj/sys/YzjSlideshowDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/index-footer-pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/index-footer-pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/index-footer-pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/index-footer-pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/lunbo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/classes/static/imges/lunbo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/test-classes/META-INF/yqrj-yzj.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/yqrj-yzj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/target/yqrj-yzj.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yqrj-yzj/yqrj-yzj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yzj.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/yqrj-basic/target/" />
+    <ignored path="$PROJECT_DIR$/yqrj-common/target/" />
+    <ignored path="$PROJECT_DIR$/yqrj-yzj/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.92.97.244" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.92.97.244" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.92.97.244" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LogOperation</find>
+      <find>SysLogOperationEntity</find>
+      <find>saveLog</find>
+      <find>401</find>
+      <find>Oauth2Filter</find>
+      <find>sys_user_token</find>
+      <find>token失效</find>
+      <find>sys_user</find>
+      <find>失效</find>
+      <find>199.27.79.215</find>
+      <find>swagger</find>
+      <find>\</find>
+      <find>ulogi</find>
+      <find>list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/Oauth2Filter.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/yqrj-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/log/dao/SysLogApiDao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/pom.xml" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/Service.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/Service1.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/Service1Impl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/YzjNoticeController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzjNoticeController.java" />
+        <option value="$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/templates/h.ftl" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/test/java/TT.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzSlideshowController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/entity/YzjStoreGoods.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/entity/YzjStoreGoodsEntity.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/entity/AA.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/excel/YzjStoreGoodsExcel.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/controller/YzjStoreGoodsController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/service/YzjStoreGoodsService.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/service/impl/YzjStoreGoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/dao/YzjStoreGoodsDao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/storegoods/YzjStoreGoodsDao.xml" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/dao/YzjDao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/service/YzjService.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/service/impl/YzjServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/controller/QTYzjStoreGoodsController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/controller/YzjController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/storegoods/dto/YzjStoreGoodsDTO.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsToController.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsService.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsToService.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsToServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjDao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsDao.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="22" />
+    <option name="y" value="14" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yzj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yzj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569039802173" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yqrj-yzj/src/main/resources/static/imges" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZHANGRONG\Desktop\yzj\yqrj-yzj\src\main\resources\static\imges" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yqrj.modules.yzj.storegoods.service.impl" />
+      <recent name="com.yqrj.modules.yzj.sys.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YzjApplication">
+    <configuration name="PasswordUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yqrj.modules.security.password.PasswordUtils" />
+      <module name="yqrj-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yqrj.modules.security.password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TT.img" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yqrj-yzj" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TT" />
+      <option name="METHOD_NAME" value="img" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YzjApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yqrj-yzj" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yqrj.YzjApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TT.img" />
+        <item itemvalue="Application.PasswordUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ccbeb79-029a-4f93-be49-5e8ccde4daf1" name="Default Changelist" comment="" />
+      <created>1568859011611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568859011611</updated>
+      <workItem from="1568859016980" duration="1871000" />
+      <workItem from="1568883476827" duration="6562000" />
+      <workItem from="1568894793200" duration="255000" />
+      <workItem from="1568941694088" duration="11660000" />
+      <workItem from="1569028752460" duration="632000" />
+      <workItem from="1569657975155" duration="27587000" />
+      <workItem from="1569741431535" duration="814000" />
+      <workItem from="1569742320812" duration="14739000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始导入">
+      <created>1568894344097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568894344098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更改swagger风格">
+      <created>1568951499094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568951499094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更改swagger风格">
+      <created>1569762903330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569762903330</updated>
+    </task>
+    <task id="LOCAL-00004" summary="优化商品信息，专区分类">
+      <created>1569763909720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569763909720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="优化商品信息，专区分类">
+      <created>1569764208171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569764208171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TT_img - 2019.09.29 at 11h 22m 46s.xml">
+      <configuration name="TT.img" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64120000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3139183" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32786885" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.49508196" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.10819672" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36885247" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.81639344" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.60983604" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.42131147" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.36885247" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始导入" />
+    <MESSAGE value="更改swagger风格" />
+    <MESSAGE value="优化商品信息，专区分类" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化商品信息，专区分类" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzSlideshowController.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/oauth2/Oauth2Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/EhcacheAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2194">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/LogOperationAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1384">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/utils/YqrjUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/password/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/templates/h.ftl" />
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/test/java/TT.java" />
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/entity/YzjNoticeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-709">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/entity/YzjSlideshowEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dto/YzjSlideshowDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dao/YzjNoticeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/YzjSlideshowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/YzjSlideshowServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/excel/YzjSlideshowExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzjNoticeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/modules/security/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/YzjNoticeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/service/impl/YzjNoticeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/sys/YzjSlideshowDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/YzjApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/YzjSlideshowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/impl/CrudServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/store/YzjStoreBrandDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/mapper/yzj/storegoods/YzjStoreGoodsDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/QTYzSlideshowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/controller/YzjNoticeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/sys/dto/YzjNoticeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-551">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreBrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsClassifyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-common/src/main/java/com/yqrj/common/service/CrudService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/YzjStoreGoodsStandardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="110" column="12" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-basic/src/main/java/com/yqrj/common/aspect/TimeOutAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dto/YzjStoreGoodsDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/entity/YzjStoreGoodsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/excel/YzjStoreGoodsExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsClassifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsStandardService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsToController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsToService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/YzjStoreGoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsToServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/dao/YzjStoreGoodsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/service/impl/YzjStoreGoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yqrj-yzj/src/main/java/com/yqrj/modules/yzj/store/controller/QTYzjStoreGoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>yqrj-basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

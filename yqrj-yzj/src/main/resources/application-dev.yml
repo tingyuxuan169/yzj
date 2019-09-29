@@ -1,0 +1,40 @@
+spring:
+  datasource:
+    druid:
+      #MySQL
+      #本地测试数据库
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://47.92.97.244:3306/test?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+      username: byyj
+      password: byyj!QAZ
+      #公司测试数据库
+      #driver-class-name: com.mysql.jdbc.Driver
+      #url: jdbc:mysql://122.114.68.78:3306/yzj?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+      #username: zzsr
+      #password: p7VPZ5eBOH4yILqbQ
+      initial-size: 20
+      max-active: 150
+      min-idle: 20
+      max-wait: 60000
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      time-between-eviction-runs-millis: 30000
+      min-evictable-idle-time-millis: 300000
+      #Oracle需要打开注释
+      #validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        #login-username: admin
+        #login-password: admin
+      filter:
+        stat:
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: false
+        wall:
+          config:
+            multi-statement-allow: true

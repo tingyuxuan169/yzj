@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yqrj-basic/yqrj-basic.iml" filepath="$PROJECT_DIR$/yqrj-basic/yqrj-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqrj-common/yqrj-common.iml" filepath="$PROJECT_DIR$/yqrj-common/yqrj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqrj-yzj/yqrj-yzj.iml" filepath="$PROJECT_DIR$/yqrj-yzj/yqrj-yzj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yzj.iml" filepath="$PROJECT_DIR$/yzj.iml" />
+    </modules>
+  </component>
+</project>
